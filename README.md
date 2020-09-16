@@ -1,4 +1,4 @@
-#Instalando as dependencies<br>
+- Instalando as dependencies<br>
 npm install<br>
 
 - Rodar o servidor no  localhost:3333 <br>
